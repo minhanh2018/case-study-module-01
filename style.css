@@ -1,0 +1,26 @@
+.container {
+    overflow: hidden;
+}
+
+.tab {
+    float: left;
+}
+
+.tab-2 {
+    margin-left: 50px;
+    padding: 0;
+}
+
+.tab-2 input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.tab-2 button {
+    margin-left: 4px;
+}
+
+tr:hover {
+    background-color: #EEEEEE;
+    cursor: pointer;
+}
